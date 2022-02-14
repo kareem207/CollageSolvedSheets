@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1622620833 source:e:\programming projects\c-c++\test\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FileQueue.c"
+
+1622014731 source:e:\programming projects\c-c++\test\linkedlist\myfile.c
+	<stdio.h>
+	<stdlib.h>
+	"myFile.h"
+
+1621976623 e:\programming projects\c-c++\test\linkedlist\myfile.h
+
+1621976577 e:\programming projects\c-c++\test\linkedlist\myfile.c
+	<stdio.h>
+	<stdlib.h>
+	"myFile.h"
+
+1622620865 e:\programming projects\c-c++\test\linkedlist\filequeue.c
+	"FileQueue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622620850 e:\programming projects\c-c++\test\linkedlist\filequeue.h
+
+1622620833 source:e:\programming projects\c-c++\test\linkedlist\filequeue.c
+	"FileQueue.h"
+	<stdio.h>
+	<stdlib.h>
+

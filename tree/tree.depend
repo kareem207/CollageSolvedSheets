@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623191156 source:e:\programming projects\c-c++\test\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"treeTry.c"
+
+1623191197 e:\programming projects\c-c++\test\tree\treetry.c
+	<stdio.h>
+	<stdlib.h>
+	"treeTry.h"
+
+1623189556 e:\programming projects\c-c++\test\tree\treetry.h
+
